@@ -1,0 +1,4 @@
+[submodule "BIZ4Africa/medicare"]
+	path = BIZ4Africa/medicare
+	url = git@github.com:BIZ4Africa/medicare.git
+	branch = master
